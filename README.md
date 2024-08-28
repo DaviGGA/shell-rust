@@ -5,9 +5,9 @@ Reference: https://app.codecrafters.io/courses/shell
 # Row to run
 - Execute it in any terminal
 
-  ```
-  cargo run
-  ```
+```
+cargo run
+```
 
 # Commands
 
