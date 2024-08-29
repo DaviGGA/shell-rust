@@ -41,6 +41,18 @@ $ pwd
 /home/user/stc
 ```
 
+## type (Check if a command is a builtin)
+```
+$ type echo
+echo is a shell builtin
+```
+
+## exe (Execute a program)
+```
+$ hello_name Doe
+Hello, Doe!.
+```
+
 
 
 # To-do
