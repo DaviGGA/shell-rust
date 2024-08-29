@@ -50,7 +50,7 @@ echo is a shell builtin
 ## exe (Execute a program)
 ```
 $ hello_name Doe
-Hello, Doe!.
+Hello, Doe!
 ```
 
 
